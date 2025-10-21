@@ -1,0 +1,5 @@
+"boot"
+{
+	"UILanguage"		"english"
+	"DefaultRenderSystemOption"		"-dx11"
+}

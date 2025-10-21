@@ -1,0 +1,1 @@
+%localappdata%\PioneerGame\Saved\Config\WindowsClient

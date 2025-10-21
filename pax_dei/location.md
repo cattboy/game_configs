@@ -1,0 +1,1 @@
+%localappdata%\PaxDei\Saved\Config\WindowsClient
