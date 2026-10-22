@@ -1,0 +1,1 @@
+-dx12 -m_rawinput 1 -nojoy -novid +cl_forcepreload 1 -noassert
