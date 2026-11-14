@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>Legends of California</ProfileName>
+    <Executeables>
+      <string>e:/steamlibrary/steamapps/common/the legend of california playtest/alta/binaries/win64/altaclient-win64-test.exe</string>
+    </Executeables>
+    <Settings>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>983226</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Override DLSS-SR performance mode</SettingNameInfo>
+        <SettingID>279951208</SettingID>
+        <SettingValue>0</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Override DLSS-SR presets</SettingNameInfo>
+        <SettingID>283385331</SettingID>
+        <SettingValue>5</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Override scaling ratio for DLSS-SR</SettingNameInfo>
+        <SettingID>283385333</SettingID>
+        <SettingValue>50</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+    </Settings>
+    <ExecutableFindFiles />
+  </Profile>
+</ArrayOfProfile>
