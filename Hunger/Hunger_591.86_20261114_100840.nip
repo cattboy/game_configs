@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>Hunger</ProfileName>
+    <Executeables>
+      <string>e:/steamlibrary/steamapps/common/hunger playtest/hunger/binaries/win64/hunger-win64-shipping.exe</string>
+    </Executeables>
+    <Settings>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>983226</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Override DLSS-SR performance mode</SettingNameInfo>
+        <SettingID>279951208</SettingID>
+        <SettingValue>6</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Override DLSS-SR presets</SettingNameInfo>
+        <SettingID>283385331</SettingID>
+        <SettingValue>13</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Override scaling ratio for DLSS-SR</SettingNameInfo>
+        <SettingID>283385333</SettingID>
+        <SettingValue>67</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+    </Settings>
+    <ExecutableFindFiles />
+  </Profile>
+</ArrayOfProfile>
